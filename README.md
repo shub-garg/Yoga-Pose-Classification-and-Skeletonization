@@ -19,8 +19,8 @@ Dataset link: https://drive.google.com/file/d/1yjzXqma96Xq-tX3dI8AvmjTDSqB2UR-i/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/yoga_pose_classification.git
-cd yoga_pose_classification
+git clone [https://github.com/yourusername/yoga_pose_classification.git](https://github.com/shub-garg/Yoga-Pose-Skeletonization-and-Classification)
+cd Yoga_Pose_Skeletonization_and_Classification
 ```
 
 ### Launch Jupyter Notebook
