@@ -56,3 +56,20 @@ Confusion Matrix
 <p align="center">
   <img src="Images/confusion.png" alt="Confusion Matrix">
 </p>
+For more details, please refer to the following paper:
+
+
+    @article{Garg:2023,
+      Author = {Shubham Garg and Aman Saxena and Richa Gupta},
+      Title = {Yoga pose classification: a CNN and MediaPipe inspired deep learning approach for real-world application},
+      Year = {2023},
+      Journal = {Journal of Ambient Intelligence and Humanized Computing},
+      Volume = {14},
+      Number = {12},
+      Pages = {16551--16562},
+      Publisher = {Springer},
+      Howpublished = {\url{https://link.springer.com/article/10.1007/s12652-022-03910-0}}
+    } 
+
+    
+[Link to paper](https://link.springer.com/article/10.1007/s12652-022-03910-0).
