@@ -9,7 +9,7 @@ This repository contains an implementation of a deep learning approach for yoga 
 - **Training**: Includes training scripts with loss and accuracy tracking.
 - **Evaluation**: Provides detailed performance metrics, confusion matrices, and comparison with state-of-the-art models.
 
-Dataset link: https://drive.google.com/file/d/1yjzXqma96Xq-tX3dI8AvmjTDSqB2UR-i/view?usp=sharing
+Dataset link: https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset
 
 <p align="center">
   <img src="Images/skel.png" alt="Accuracy and Loss Curves">
